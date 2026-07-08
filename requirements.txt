@@ -1,0 +1,6 @@
+aiogram==3.13.1
+PyMySQL==1.1.1
+openpyxl==3.1.5
+python-dotenv==1.0.1
+# Для SOCKS5-прокси (TG_PROXY=socks5://...). Для HTTP-прокси не нужен.
+aiohttp_socks==0.10.1
